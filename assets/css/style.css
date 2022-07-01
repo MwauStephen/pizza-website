@@ -853,7 +853,7 @@ section {
 }
 .menu #menu-flters li:hover,
 .menu #menu-flters li.filter-active {
-  color: #cda45e;
+  color: #ff6a33;
 }
 .menu #menu-flters li:last-child {
   margin-right: 0;
@@ -896,7 +896,7 @@ section {
   transition: 0.3s;
 }
 .menu .menu-content a:hover {
-  color: #cda45e;
+  color: #ff4500;
 }
 .menu .menu-content span {
   background: #1a1814;
@@ -904,7 +904,7 @@ section {
   z-index: 3;
   padding: 0 10px;
   font-weight: 600;
-  color: #cda45e;
+  color: #ff6a33;
 }
 .menu .menu-ingredients {
   margin-left: 85px;
