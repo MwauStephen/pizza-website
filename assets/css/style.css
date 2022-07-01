@@ -929,20 +929,20 @@ section {
   transition: 0.3s;
   color: #fff;
   border-radius: 0;
-  border-right: 2px solid #cda45e;
+  border-right: 2px solid #ff4500;
   font-weight: 600;
   font-size: 15px;
 }
 .specials .nav-link:hover {
-  color: #cda45e;
+  color: #ff6a33;
 }
 .specials .nav-link.active {
   color: #1a1814;
-  background: #cda45e;
-  border-color: #cda45e;
+  background: #ed3c0d;
+  border-color: #ff4500;
 }
 .specials .nav-link:hover {
-  border-color: #cda45e;
+  border-color: #ff4500;
 }
 .specials .tab-pane.active {
   -webkit-animation: fadeIn 0.5s ease-out;
@@ -1092,7 +1092,7 @@ section {
   width: 24px;
   height: 24px;
   margin: 0 10px -6px 0;
-  border: 3px solid #cda45e;
+  border: 3px solid #ff4500;
   border-top-color: #1a1814;
   -webkit-animation: animate-loading 1s linear infinite;
   animation: animate-loading 1s linear infinite;
@@ -1103,7 +1103,7 @@ section {
   box-shadow: none;
   font-size: 14px;
   background: #0c0b09;
-  border-color: #625b4b;
+  border-color: #ff4500;
   color: white;
 }
 .book-a-table .php-email-form input::-moz-placeholder,
@@ -1116,7 +1116,7 @@ section {
 }
 .book-a-table .php-email-form input:focus,
 .book-a-table .php-email-form textarea:focus {
-  border-color: #cda45e;
+  border-color: #ff6a33;
 }
 .book-a-table .php-email-form input {
   height: 44px;
@@ -1125,7 +1125,7 @@ section {
   padding: 10px 12px;
 }
 .book-a-table .php-email-form button[type="submit"] {
-  background: #cda45e;
+  background: #ff4500;
   border: 0;
   padding: 10px 35px;
   color: #fff;
@@ -1133,7 +1133,7 @@ section {
   border-radius: 50px;
 }
 .book-a-table .php-email-form button[type="submit"]:hover {
-  background: #d3af71;
+  background: #330e00;
 }
 
 /*--------------------------------------------------------------
@@ -1168,7 +1168,7 @@ section {
 }
 .testimonials .testimonial-item .quote-icon-left,
 .testimonials .testimonial-item .quote-icon-right {
-  color: #d3af71;
+  color: #ff4500;
   font-size: 26px;
 }
 .testimonials .testimonial-item .quote-icon-left {
@@ -1203,7 +1203,7 @@ section {
   opacity: 1;
 }
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #cda45e;
+  background-color: #ff4500;
 }
 
 /*--------------------------------------------------------------
