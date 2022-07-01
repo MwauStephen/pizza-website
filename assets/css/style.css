@@ -651,7 +651,8 @@ section {
   font-size: 36px;
   font-weight: 700;
   font-family: "Playfair Display", serif;
-  color: #cda45e;
+  color: #ff4500;
+  /* color: #cda45e; */
 }
 
 /*--------------------------------------------------------------
@@ -801,7 +802,7 @@ section {
   font-size: 28px;
   font-weight: 700;
 
-  color: #cda45e;
+  color: #ff6a33;
 }
 .why-us .box h4 {
   font-size: 24px;
@@ -817,7 +818,7 @@ section {
   padding: 0;
 }
 .why-us .box:hover {
-  background: #cda45e;
+  background: #ff4500;
   padding: 30px 30px 70px 30px;
   box-shadow: 10px 15px 30px rgba(0, 0, 0, 0.18);
 }
