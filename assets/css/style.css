@@ -53,8 +53,8 @@ h6 {
   top: calc(50% - 30px);
   left: calc(50% - 30px);
   border: 6px solid #1a1814;
-  border-top-color: #cda45e;
-  border-bottom-color: #cda45e;
+  border-top-color: #ff4500;
+  border-bottom-color: #ff4500;
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -1275,7 +1275,7 @@ section {
   display: inline-block;
 }
 .chefs .member .social a:hover {
-  color: #cda45e;
+  color: #ff4500;
 }
 .chefs .member .social i {
   font-size: 18px;
